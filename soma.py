@@ -9,3 +9,4 @@ numA = int(input())
 numB = int(input())
 soma = numA + numB
 print("X =",soma)
+
